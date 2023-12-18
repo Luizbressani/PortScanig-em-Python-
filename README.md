@@ -8,7 +8,7 @@ O PortScaning é uma ferramenta simples de varredura de portas desenvolvida em P
 2. Clone este repositório:
    ```bash
    git clone https://github.com/Luizbressani/PortScanig-em-Python-.git
-   cd PortScanIG
+   cd PortScanig-em-Python
 #####   Execute a ferramenta fornecendo o domínio ou endereço IP alvo e, opcionalmente, as portas desejadas:
     python Port.py Dominio/IP 22,23,80,443
 
